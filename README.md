@@ -12,3 +12,6 @@ The datasets contain data on the use of the virtual telephony service CallMeMayb
 
 ## Project objective:
 Create a new function that will give supervisors information on the least effective operators
+
+## Link for Tableau Dashboard:
+https://public.tableau.com/authoring/Telecom-IneffectiveOperators/Dashboard1#2
